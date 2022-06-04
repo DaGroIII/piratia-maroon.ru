@@ -1,0 +1,1 @@
+system\game.exe startgame editor
